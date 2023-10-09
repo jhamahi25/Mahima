@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Mahima Jha 
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me www.linkedin.com/in/mahima-jha
+📊 Aspiring Data Analyst 📈 
+Learning the art of data 📉 
+Python 🐍 enthusiast 
+Data wrangler 🧹  
+Visualization 📊 aficionado
+Open to collaborations 👥 
+Exploring the world of data 🌍
+
+Feel free to connect with me on LinkedIn to explore opportunities and network further.
+www.linkedin.com/in/mahima-jha
 
 <!---
 jhamahi25/jhamahi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
